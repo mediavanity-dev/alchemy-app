@@ -104,3 +104,7 @@ footer nav { display: flex; gap: 20px; }
   .privacy svg { margin: 0 auto; }
   .top nav { gap: 14px; }
 }
+
+/* Apple's official "Download on the App Store" badge (unmodified, per Apple's marketing guidelines) */
+.badge { display: inline-block; line-height: 0; }
+.badge img { height: 54px; width: auto; }
